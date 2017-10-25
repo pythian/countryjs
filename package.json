@@ -1,6 +1,6 @@
 {
   "name": "countryjs",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/therebelrobot/countryjs/issues"
   },
-  "homepage": "https://github.com/therebelrobot/countryjs",
+  "homepage": "https://github.com/pythian/countryjs",
   "dependencies": {
     "lodash": "^4.17.2",
     "minimatch": "^3.0.3",
