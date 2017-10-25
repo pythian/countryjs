@@ -12,7 +12,7 @@
     "Loris Guignard <loris.guignard@gmail.com> [@loris]",
     "Brandon Copley <copley.brandon@gmail.com> [@brandoncopley]"
   ],
-  "repository": "progressclaim/countryjs",
+  "repository": "pythian/countryjs",
   "engines": [
     "node"
   ],
